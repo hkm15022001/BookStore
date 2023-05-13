@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+	form {
+		width: 100%;
+	}
+	h1 {
+		margin: 5px 0 10px 0;
+	}
+	#nutDangKy {
+		width: 100%;
+		margin-top: 15px;
+	}
+	.rq {
+		color: red;
+	}
+	.msg {
+		font-style: italic;
+	}

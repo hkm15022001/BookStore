@@ -1,0 +1,43 @@
+@charset "UTF-8";
+<style>
+.d-block.w-100 {
+	object-fit: cover;
+	object-position: center;
+	overflow : hidden;
+	height : 450px;
+}
+
+.container {
+	padding: 0;
+}
+
+.card-footer {
+	display: flex;
+	justify-content: center;
+}
+
+.card-img-top {
+	
+	object-fit: cover; 
+	width: 100%;
+	
+}
+.bg-success {
+	height :100%;
+	
+}
+ul {
+ list-style-type: none;
+ padding-left : 0;
+}
+.welcome {
+	max-width: 160px;
+	max-height:50x;
+}
+.dropdown-toggle {
+	width: 160px;
+}
+.dropdown-menu li{
+	margin : 10px;
+}
+</style>
